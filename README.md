@@ -13,3 +13,8 @@ pdfplumber==0.11.4
 transformers==4.46.2
 torch==2.5.1
 ```
+Run this code to initate user interface
+
+```python
+streamlit run main.py
+```
